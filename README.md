@@ -1,6 +1,6 @@
 # Scratch-Project
 A Scratch Project egy Jumping Game-t tartalmaz, melyhez felhasználtam 3 sprite-ot és két hátteret.
-A main sprite ugrásához két ciklust használok, a potnszám kiírásához egy "Score" nevű változót, a háttér megváltoztatásához egy elágazást alkalmazok.
+A main sprite ugrásához két ciklust használok, a potnszámhoz egy "Score" nevű változót, a háttér megváltoztatásához egy elágazást alkalmazok.
 Az ugrásokhoz a space billentyűt kell lenyomni, öt sikeres ugrás után változik meg a háttér.
 
 
